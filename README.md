@@ -15,5 +15,6 @@ Zikuvikuzi Black n Dekar Teması için hazırlanmış Chrome teması
 * Şunu unutmayın. Klasörü daha sonra silerseniz temada gidecektir o yüzden yanlışlıkla silmeyeceğiniz bir alana koyunuz. (Örneğin chrome'un ana dosyalarının bulunduğu dizine)
 
 # Önizleme
-![alt_text](https://i.imgur.com/0fzzzMQ.jpeg "Önizleme")
+![alt_text](https://i.imgur.com/DqWIEUj.jpeg "Özizleme 1")
+![alt_text](https://i.imgur.com/0fzzzMQ.jpeg "Önizleme 2")
 
