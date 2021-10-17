@@ -10,4 +10,7 @@ Zikuvikuzi Black n Dekar Teması için hazırlanmış Chrome teması
 
 4.) Ve yüklemenin bitmesini bekleyiniz. 
 
+# Kurulum için bkz
+![alt text](https://i.imgur.com/fNDgVo2.gif "Kurulum")
 * Şunu unutmayın. Klasörü daha sonra silerseniz temada gidecektir o yüzden yanlışlıkla silmeyeceğiniz bir alana koyunuz. (Örneğin chrome'un ana dosyalarının bulunduğu dizine)
+
